@@ -1,15 +1,4 @@
-🌟 Welcome to Sam's Hub of Awesome! 🚀
-
-Hey Rockstar! 🎸 Ready to dive into the epicenter of my interests, hobbies, and life goals? You're in for a treat!
-
-📸 Wander through the frames of my main interest – the art of freezing moments in time. From candid shots to breathtaking landscapes, it's all here!
-
-🚀 Got big goals? So do I! Let's conquer them together – one click at a time. You might leave here inspired, or at the very least, entertained.
-
-So, what are you waiting for? Let the adventure begin! 🌈🎉
-
-Living the dream,
-Sam
+Hello, I'm Sam! Welcome to my Webpage
 
 Netlify URL: https://sanchez-samantha.netlify.app/
 
